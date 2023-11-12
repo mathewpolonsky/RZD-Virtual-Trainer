@@ -38,4 +38,4 @@ pip install -r requirements.txt
 
 [`make_submit.ipynb`](make_submit.ipynb) — получение сабмита
 
-[`rzd_tg_bot/`](rzd_bot/) — директория с ботом 
+[`rzd_tg_bot/`](rzd_tg_bot/) — директория с ботом 
