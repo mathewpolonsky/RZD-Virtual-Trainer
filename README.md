@@ -1,5 +1,5 @@
 # RZD-Virtual-Trainer 
-## Ссылка на бота https://t.me/rzd_employee_training_bot
+## [Ссылка на бота](https://t.me/rzd_employee_training_bot)
 Запуск бота в dev-режиме
 Перейти в директорию с ботом
 ```
